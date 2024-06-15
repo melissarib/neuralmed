@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Criação de ambientes virtuais (venv)
+venv/
+
+# Arquivos de configuração
+*.ini
+*.cfg
+
+# Logs e saídas
+*.log
+*.pot
+*.pyo
+*.out
+*.pyc
+
+# Arquivos gerados pelo sistema
+.DS_Store
+Thumbs.db
+
+# Outros
+.idea/
+.vscode/
+
+# Ignorar arquivos de ambiente e credenciais sensíveis
+.env
