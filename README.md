@@ -4,7 +4,6 @@
 
    ```bash
    git clone git@github.com:melissarib/neuralmed.git
-   cd pacs_integration
 
 2. Realize a instalação do Docker Desktop
 
