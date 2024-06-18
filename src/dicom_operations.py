@@ -11,7 +11,7 @@ ae.add_supported_context(SecondaryCaptureImageStorage)
 
 # Critérios de consulta
 ds = Dataset()
-ds.QueryRetrieveLevel = 'PATIENT'
+ds.QueryRetrieveLevel = 'STUDY'
 ds.PatientName = ''
 ds.PatientID = "PCT0014"
 ds.StudyInstanceUID = ''
